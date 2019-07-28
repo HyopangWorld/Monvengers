@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: ae31d1043bf9e4c3cacbeeca79ed9fd6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOvertext: {instanceID: 0}
+  - BoxMakePosition1: {instanceID: 0}
+  - BoxMakePosition2: {instanceID: 0}
+  - BoxMakePosition3: {instanceID: 0}
+  - BoxMakePosition4: {instanceID: 0}
+  - BoxMakePosition5: {instanceID: 0}
+  - MV_dustDD: {fileID: 1534529026670390, guid: 23a2c506d9066074fbcd6895d2cca08c,
+      type: 2}
+  - MV_dustGG: {fileID: 1107793196682258, guid: 90fd778ea3650b04393d36f2b426044c,
+      type: 2}
+  - MV_dustPP: {fileID: 1205537628134532, guid: b1483b3573a68164ba856396fa4d968d,
+      type: 2}
+  - MV_dustTT: {fileID: 1735067267462348, guid: 0a7b4abaa4c4fe34d9b2001e2c072b99,
+      type: 2}
+  - heartText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

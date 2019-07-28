@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8e59046b7a40c224791ef54d4fa31f50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundObject: {fileID: 1374163061730038, guid: 6d958865aa4050a4eb4485a23ed8b6fc,
+      type: 2}
+  - backgroundSprite2: {fileID: 21300000, guid: 6c748d81521b2c542bd0c761770ebf1c,
+      type: 3}
+  - backgroundSprite1: {fileID: 21300000, guid: f65a5ec4ea4eaf04dafd1412f5cefa06,
+      type: 3}
+  - airText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
